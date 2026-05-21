@@ -4,7 +4,7 @@ Dieses Repository dient als Beispielimplementierung in JAVA und implementiert de
 Teil der Spezifikation des VAU-Protokolls für ePA für
 alle ([gemSpec_Krypt Kaptiel 7](https://gemspec.gematik.de/docs/gemSpec/gemSpec_Krypt/latest/#7)).
 
-"⚠️ **Warning**: This repository contains experimental software which has not been tested for security, reliability, or correctness. Do not use this code in production.
+⚠️ **Warning**: This repository contains experimental software which has not been tested for security, reliability, or correctness. Do not use this code in production.
 
 ## Einschränkungen & Hinweise
 
